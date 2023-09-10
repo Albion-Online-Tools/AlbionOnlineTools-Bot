@@ -1,4 +1,4 @@
-# AlbionOnlineTools-Bot
-The Official AlbionOnlineTools Discord Bot repository
+<h1 align="center"> AlbionOnlineTools - Discord Bot </h1>
 
-# Coming Very Soon.
+Welcome to the Official [Albion Online Tools Bot](https://discord.gg/7pv5b8XWVy) Discord repository
+
