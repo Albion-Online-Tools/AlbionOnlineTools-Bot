@@ -24,8 +24,7 @@ Welcome to the Official [Albion Online Tools Bot](https://discord.gg/7pv5b8XWVy)
 - User : Shows information about a specific user.
 - Server : Shows information about this server.
 
-## Usage : 
-# Price
+# Price :
 <p align="center" align='right'>
   <img src="https://github.com/LegitaDev/AlbionOnlineTools-Bot/assets/50632062/cdbcda93-7ab5-4e48-b27c-0a2e5bb3bec6"/>
 </p>
@@ -34,7 +33,7 @@ Welcome to the Official [Albion Online Tools Bot](https://discord.gg/7pv5b8XWVy)
   <img src="https://github.com/LegitaDev/AlbionOnlineTools-Bot/assets/50632062/26d21218-7ee1-48c1-a97e-a1556df85c01"/>
 </p>
 
-# Player
+# Player :
 <p align="center" align='right'>
   <img src="https://github.com/LegitaDev/AlbionOnlineTools-Bot/assets/50632062/3425529b-7d8e-4991-af27-d01c90356e04"/>
 </p>
@@ -43,7 +42,7 @@ Welcome to the Official [Albion Online Tools Bot](https://discord.gg/7pv5b8XWVy)
   <img src="https://github.com/LegitaDev/AlbionOnlineTools-Bot/assets/50632062/9d54b3e3-618c-4af9-91a6-2733654a8b5d"/>
 </p>
 
-# All Commands
+# All Commands :
 <p align="center" align='right'>
   <img src="https://github.com/LegitaDev/AlbionOnlineTools-Bot/assets/50632062/8105ef3f-2e52-4412-8b81-13fa704d665d"/>
 </p>
