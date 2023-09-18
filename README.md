@@ -23,7 +23,7 @@ Welcome to the Official [Albion Online Tools Bot](https://discord.gg/7pv5b8XWVy)
 - Random-Color : Generates a random HEX color.
 - User : Shows information about a specific user.
 - Server : Shows information about this server.
-
+ 
 # Price :
 <p align="center" align='right'>
   <img src="https://github.com/LegitaDev/AlbionOnlineTools-Bot/assets/50632062/cdbcda93-7ab5-4e48-b27c-0a2e5bb3bec6"/>
