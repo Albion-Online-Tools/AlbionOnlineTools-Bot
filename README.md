@@ -42,6 +42,11 @@ Welcome to the Official [Albion Online Tools Bot](https://discord.gg/7pv5b8XWVy)
   <img src="https://github.com/LegitaDev/AlbionOnlineTools-Bot/assets/50632062/9d54b3e3-618c-4af9-91a6-2733654a8b5d"/>
 </p>
 
+# Randomator :
+<p align="center" align='right'>
+  <img src="https://github.com/LegitaDev/AlbionOnlineTools-Bot/assets/50632062/747aab5a-5a3f-43a5-9c55-74663cb61092"/>
+</p>
+
 # All Commands :
 <p align="center" align='right'>
   <img src="https://github.com/LegitaDev/AlbionOnlineTools-Bot/assets/50632062/8105ef3f-2e52-4412-8b81-13fa704d665d"/>
