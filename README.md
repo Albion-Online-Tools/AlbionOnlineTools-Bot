@@ -2,55 +2,73 @@
 
 Welcome to the Official [Albion Online Tools Bot](https://discord.gg/7pv5b8XWVy) Discord repository
 
+We support all servers (Americas / Asia / Europe)
+
+We support 15 Languages!
+
 [![Discord](https://img.shields.io/discord/1095372949718048771?color=660033&label=Discord&logo=discord&logoColor=white&style=flat)](https://discord.gg/7pv5b8XWVy)
+
 <a target="_blank" href="https://discordapp.com/users/907731551431835658">
     <img alt="Discord" src="https://img.shields.io/badge/legita-00006b.svg?&style=for-the-badge&logo=Discord&logoColor=white" />
 </a>
+<a target="_blank" href="https://discordapp.com/users/244832437312552961">
+    <img alt="Discord" src="https://img.shields.io/badge/mootje-00006b.svg?&style=for-the-badge&logo=Discord&logoColor=white" />
+</a>
 
 ## Albion Online Commands : 
-- Price : Check the (Sell / Buy) Orders of any item.
-- Player : Check the details of any Player.
-- Guild : Check the details of any Guild.
-- Gold : Check the gold price.
-- Premium : Check the premium price.
-- Randomator : Get a random funny / challenging builds.
+- price : Check the (sell & buy) Orders of any item + history graph.
+- player : Check the details of any Player.
+- guild : Check the details of any Guild.
+- gold : Check the live gold price.
+- premium : Check the live premium price.
+- randomator : Get a random build with spells.
+- image : Provides high quality image of any item with all qualities.
+- build : Choose a build to display.
+- new-build : Creates a new Albion build.
+- remove-build : Removes an Albion build.
 
 ## Discord Commands : 
-- Help : Use it to get full details of the bot commands.
-- Avatar : Check any user profile picture.
-- Bot-info : Check our bot information.
+- help : Use it to get full details of the bot commands.
+- avatar : Shows user's profile picture.
+- user : Shows information about a specific user.
+- server : Shows information about this server.
+- bot-info : Check bot's information.
 - 8ball : Answer questions with random yes/no.
-- Random-Color : Generates a random HEX color.
-- User : Shows information about a specific user.
-- Server : Shows information about this server.
+- random-Color : Generates a random HEX color.
+- utc : Get the current Albion Online Time.
+- set-language : Set the bot language for your server.
+- set-builder-role : Set a role to manage the builds in this server.
+
  
 # Price :
 <p align="center" align='right'>
-  <img src="https://github.com/LegitaDev/AlbionOnlineTools-Bot/assets/50632062/cdbcda93-7ab5-4e48-b27c-0a2e5bb3bec6"/>
+  <img src="https://github.com/Albion-Online-Tools/AlbionOnlineTools-Bot/assets/50632062/07cbdf7b-1da0-4b7b-af0a-3486ce9e02ea"/>
 </p>
 
+# Build Commands :
 <p align="center" align='right'>
-  <img src="https://github.com/LegitaDev/AlbionOnlineTools-Bot/assets/50632062/26d21218-7ee1-48c1-a97e-a1556df85c01"/>
+  <img src="https://github.com/Albion-Online-Tools/AlbionOnlineTools-Bot/assets/50632062/6fb63179-6d60-4076-bb5a-d10232cdaf94"/>
 </p>
 
-# Player :
+# Image :
 <p align="center" align='right'>
-  <img src="https://github.com/LegitaDev/AlbionOnlineTools-Bot/assets/50632062/3425529b-7d8e-4991-af27-d01c90356e04"/>
-</p>
-
-<p align="center" align='right'>
-  <img src="https://github.com/LegitaDev/AlbionOnlineTools-Bot/assets/50632062/9d54b3e3-618c-4af9-91a6-2733654a8b5d"/>
+  <img src="https://github.com/Albion-Online-Tools/AlbionOnlineTools-Bot/assets/50632062/c9b8ac23-0b79-4c59-93d2-a4ca1c42e39c"/>
 </p>
 
 # Randomator :
 <p align="center" align='right'>
-  <img src="https://github.com/LegitaDev/AlbionOnlineTools-Bot/assets/50632062/747aab5a-5a3f-43a5-9c55-74663cb61092"/>
+  <img src="https://github.com/Albion-Online-Tools/AlbionOnlineTools-Bot/assets/50632062/dfe02dae-0a5f-43e9-9baa-6306bc5f5490"/>
 </p>
 
-# All Commands :
-<p align="center" align='right'>
-  <img src="https://github.com/LegitaDev/AlbionOnlineTools-Bot/assets/50632062/8105ef3f-2e52-4412-8b81-13fa704d665d"/>
-</p>
 
 ## Contact Us
-You can reach us on Discord : [Click Here](https://discord.gg/7pv5b8XWVy)
+You can reach us on Discord : [Click Here](https://discord.com/invite/albion-online-tools-1095372949718048771)
+
+## Support Us
+At [Albion Online Tools](https://albiononlinetools.com/), our mission is to provide invaluable tools to each and every player, completely free of charge. However, to continue offering these essential resources, we rely on the generosity and support of individuals like you, You can support us on Patreon.
+
+https://www.patreon.com/AlbionOnlineTools
+
+<p align="left">
+  <img src="https://github.com/Albion-Online-Tools/AlbionOnlineTools/assets/50632062/3ad20c09-9b1f-41e1-8c53-29a5bec0e64b" width="300" height="175" />
+</p>
