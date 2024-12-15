@@ -26,6 +26,13 @@ We support 15 Languages!
 - build : Choose a build to display.
 - new-build : Creates a new Albion build.
 - remove-build : Removes an Albion build.
+- server-status: Live Albion Online servers status feed.
+- killboard :
+  - /killboard info displays the killboard's information in this server.
+  - /killboard set-channel to set channel for kills or deaths feed.
+  - /killboard track Track Players or Guilds kills & deaths.
+  - /killboard untrack Removes specific trackers of a Player or Guild.
+  - /killboard remove Reset the killboard in this server.
 
 ## Discord Commands : 
 - help : Use it to get full details of the bot commands.
@@ -38,6 +45,7 @@ We support 15 Languages!
 - utc : Get the current Albion Online Time.
 - set-language : Set the bot language for your server.
 - set-builder-role : Set a role to manage the builds in this server.
+- feedback: Reach out to our developers team directly with your feedback.
 
  
 # Price :
