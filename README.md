@@ -19,20 +19,22 @@ We support 15 Languages!
 - price : Check the (sell & buy) Orders of any item + history graph.
 - player : Check the details of any Player.
 - guild : Check the details of any Guild.
-- gold : Check the live gold price.
-- premium : Check the live premium price.
+- gold : Check the live & history gold price.
 - randomator : Get a random build with spells.
 - image : Provides high quality image of any item with all qualities.
-- build : Choose a build to display.
-- new-build : Creates a new Albion build.
-- remove-build : Removes an Albion build.
 - server-status: Live Albion Online servers status feed.
+- builds :
+  - /builds build : Choose a build to display.
+  - /builds new-build : Creates a new Albion build.
+  - /builds edit-build : Edit an existing Albion build.
+  - /builds remove-build : Removes an Albion build.
+  - /builds set-builder-role : Set a role to manage the builds in your server.
 - killboard :
-  - /killboard info displays the killboard's information in this server.
-  - /killboard set-channel to set channel for kills or deaths feed.
-  - /killboard track Track Players or Guilds kills & deaths.
-  - /killboard untrack Removes specific trackers of a Player or Guild.
-  - /killboard remove Reset the killboard in this server.
+  - /killboard info : displays the killboard's information in this server.
+  - /killboard set-channel : to set channel for kills or deaths feed.
+  - /killboard track : Track Players or Guilds kills & deaths.
+  - /killboard untrack : Removes specific trackers of a Player or Guild.
+  - /killboard remove : Reset the killboard in this server.
 
 ## Discord Commands : 
 - help : Use it to get full details of the bot commands.
